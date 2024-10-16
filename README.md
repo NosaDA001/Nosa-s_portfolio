@@ -1,2 +1,2 @@
 # Nosa-s_portfolio
-Analytical Portfolio
+Analytics Portfolio
